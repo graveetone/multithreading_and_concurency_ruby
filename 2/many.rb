@@ -1,4 +1,4 @@
-require_relative "factorial"
+require_relative "../factorial"
 
 n = 10_000
 threads = []

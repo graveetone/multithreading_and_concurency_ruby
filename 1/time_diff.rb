@@ -1,5 +1,5 @@
 require "benchmark"
-require_relative "factorial"
+require_relative "../factorial"
 
 threads = []
 puts "100 threads:"

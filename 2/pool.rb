@@ -1,4 +1,4 @@
-require_relative "factorial"
+require_relative "../factorial"
 require "benchmark"
 
 POOL_SIZE = 10
